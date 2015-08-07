@@ -7,4 +7,8 @@ private first() {
 
 }
 
+private second() {
+
+}
+
 }
